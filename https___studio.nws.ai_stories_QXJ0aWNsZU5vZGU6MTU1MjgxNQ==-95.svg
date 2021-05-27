@@ -1,0 +1,8 @@
+<svg style="" data-layer-last-child="true" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="erh98gitgsl1" viewBox="0 0 640 100" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><style>#erh98gitgsl2 {
+           animation-name: erh98gitgsl2_c_o, erh98gitgsl2_s_do, erh98gitgsl2_s_da;
+           animation-duration: 3000ms;
+           animation-fill-mode: forwards;
+           animation-timing-function: linear;
+           animation-direction: normal;
+           animation-iteration-count: infinite;  
+        }@keyframes erh98gitgsl2_c_o { 0% {opacity: 1} 44% {opacity: 1} 45% {opacity: 0} 100% {opacity: 0} }@keyframes erh98gitgsl2_s_do { 0% {stroke-dashoffset: 344.470000;animation-timing-function: cubic-bezier(0.785000,0.135000,0.150000,0.860000)} 23.333333% {stroke-dashoffset: 0;animation-timing-function: cubic-bezier(0.785000,0.135000,0.150000,0.860000)} 45% {stroke-dashoffset: -344.470000} 100% {stroke-dashoffset: -344.470000} }@keyframes erh98gitgsl2_s_da { 0% {stroke-dasharray: 344.470000;animation-timing-function: cubic-bezier(0.785000,0.135000,0.150000,0.860000)} 23.333333% {stroke-dasharray: 344.470000} 100% {stroke-dasharray: 344.470000} }</style><line id="erh98gitgsl2" x1="22.830000" y1="50" x2="367.301395" y2="50" transform="matrix(1 0 0 1 135.35475899999997 -0.00000000000001)" fill="none" stroke="rgb(0,0,0)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dashoffset="344.470000" stroke-dasharray="344.470000"/></svg>
